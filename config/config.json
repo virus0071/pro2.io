@@ -2,7 +2,7 @@
   "development": {
     "hostname": "localhost",
     "username": "root",
-    "password": "789789Love$$",
+    "password": "yourpw",
     "database": "class_hub",
     "dialect": "mysql",
     "port": "3306"
