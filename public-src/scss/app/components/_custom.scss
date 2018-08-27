@@ -1,0 +1,29 @@
+
+
+.title-ms {
+    @include font-size(16px);
+    color: $base-color-three;
+}
+
+.post-excerpt {
+    @include font-size(14px);
+}
+
+.title-widget {
+    @include font-size(14px);
+}
+
+
+.site-header_link {
+    text-decoration: none;
+    color: #ddd;
+    cursor: pointer;
+}
+.site-header {
+    @include font-size(32px);
+    font-weight: 400;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}

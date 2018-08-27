@@ -1,0 +1,21 @@
+@import
+    'config',
+    'mixins/utilities.mixins',
+    'vendor/reset',
+    'base-styles',
+    'components/page-structure',
+    'components/header',
+    'components/navigation',
+    'components/content-blocks',
+    'components/buttons',
+    'components/single-posts',
+    'components/mobile-menu',
+    'components/slideshow',
+    'mq/media-queries',
+    'vendor/app',
+    'components/custom';
+
+$color-sidebar: #82a0af;
+    .primary-header {
+        background: $color-sidebar;
+    }
